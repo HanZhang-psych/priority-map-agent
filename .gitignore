@@ -1,0 +1,11 @@
+# Manuscript drafts (kept locally, never committed)
+manuscript/
+
+# Third-party human saccade data (OSF); rebuilt by Visual-Search/pool_data.py
+Visual-Search/dataset/
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.vscode/
+.DS_Store

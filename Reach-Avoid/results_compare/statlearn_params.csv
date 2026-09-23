@@ -1,0 +1,2 @@
+beta_star,eta_star,beta_hat,eta_hat,fit_mse,teacher_offset,switch,deploy_trials,num_seeds,block
+0.2,0.15,0.20000,0.15000,0.014434,-42.12550,90,180,20,10
