@@ -9,3 +9,6 @@ __pycache__/
 .venv/
 .vscode/
 .DS_Store
+
+# Figures written by Reach-Avoid/tutorial_action_agent.ipynb
+Reach-Avoid/demo_videos/figure*
